@@ -1,1 +1,0 @@
-# vedacandles.github.io
