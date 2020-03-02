@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bryanjimenez.github.io/Vedacandles/sitemap.xml
+Sitemap: https://vedacandles.com/sitemap.xml
