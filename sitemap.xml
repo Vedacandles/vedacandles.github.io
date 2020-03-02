@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://bryanjimenez.github.io/</loc>
+      <loc>https://vedacandles.com/</loc>
       <lastmod>2019-12-05</lastmod>
    </url>
    <url>
-      <loc>https://bryanjimenez.github.io/#/gallery</loc>
+      <loc>https://vedacandles.com/#/gallery</loc>
       <lastmod>2019-12-05</lastmod>
    </url>
    <url>
-      <loc>https://bryanjimenez.github.io/#/shop</loc>
+      <loc>https://vedacandles.com/#/custom</loc>
       <lastmod>2019-12-05</lastmod>
    </url>
    <url>
-      <loc>https://bryanjimenez.github.io/#/story</loc>
+      <loc>https://vedacandles.com/#/shop</loc>
       <lastmod>2019-12-05</lastmod>
    </url>
    <url>
-      <loc>https://bryanjimenez.github.io/#/contact-us</loc>
+      <loc>https://vedacandles.com/#/story</loc>
       <lastmod>2019-12-05</lastmod>
+   </url>
+   <url>
+      <loc>https://vedacandles.com/#/contact-us</loc>
+      <lastmod>2019-12-05</lastmod>
+   </url>
+   <url>
+      <loc>https://vedacandles.com/#/rewards</loc>
+      <lastmod>2020-03-01</lastmod>
    </url>
 </urlset> 
